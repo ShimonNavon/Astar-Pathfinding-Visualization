@@ -4,3 +4,4 @@
 
 Use left mouse key to drup points. Use space key to lunch.
 
+https://user-images.githubusercontent.com/75920922/128073307-e5b20501-3c7d-4e46-9963-393a430a0b3d.mp4
